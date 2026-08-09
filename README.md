@@ -4,6 +4,7 @@
 
 Patch de tradução para Português Brasileiro do jogo **Midnight Club 3 - DUB Edition Remix** (PlayStation 2), feito por fã para fãs.
 
+
 <img width="2560" height="1440" alt="pcsx2 Screenshot 2026 08 09 - 19 54 25 39" src="https://github.com/user-attachments/assets/81ce7e3d-e84e-4e6f-a970-599d960e0e27" />
 <img width="2560" height="1440" alt="pcsx2 Screenshot 2026 08 09 - 19 54 58 14" src="https://github.com/user-attachments/assets/fd299d4c-dcb3-4f96-8d1f-8607dddb4163" />
 <img width="2560" height="1440" alt="pcsx2 Screenshot 2026 08 09 - 19 56 07 10" src="https://github.com/user-attachments/assets/09788f32-b18f-4679-ae42-a053b022bed8" />
