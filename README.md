@@ -32,11 +32,6 @@ Patch de tradução para Português Brasileiro do jogo **Midnight Club 3 - DUB E
 
 Instruções detalhadas passo a passo estão no arquivo [`LEIAME.txt`](./LEIAME.txt).
 
-##  Limitações conhecidas
-
-A palavra "Loading" se manteve em inglês por não ter sido encontrada
-durante o desenvolvimento. Todo o restante do jogo (menus,
-diálogos, textos gerais) está traduzido e acentuado normalmente.
 
 ##  Aviso legal
 
