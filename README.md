@@ -9,8 +9,11 @@ Patch de tradução para Português Brasileiro do jogo **Midnight Club 3 - DUB E
 <img width="2560" height="1440" alt="pcsx2 Screenshot 2026 08 09 - 19 54 58 14" src="https://github.com/user-attachments/assets/fd299d4c-dcb3-4f96-8d1f-8607dddb4163" />
 <img width="2560" height="1440" alt="pcsx2 Screenshot 2026 08 09 - 19 56 07 10" src="https://github.com/user-attachments/assets/09788f32-b18f-4679-ae42-a053b022bed8" />
 <img width="2560" height="1440" alt="pcsx2 Screenshot 2026 08 09 - 19 58 24 77" src="https://github.com/user-attachments/assets/9b64caa3-07ea-4902-98c0-d8f738de06c8" />
-<img width="2560" height="1440" alt="pcsx2 Screenshot 2026 08 12 - 22 58 41 63" src="https://github.com/user-attachments/assets/804e91a9-b49a-4d31-846f-7a7cc1d3299c" />
+<img width="2560" height="1440" alt="pcsx2 Screenshot 2026 08 18 - 19 06 26 99" src="https://github.com/user-attachments/assets/a9138e1c-328d-44ab-ad7c-7122cfd2e313" />
 <img width="2560" height="1440" alt="pcsx2 Screenshot 2026 08 09 - 19 59 06 31" src="https://github.com/user-attachments/assets/58de6773-b7e2-40f8-8bce-ce9815535728" />
+<img width="2560" height="1440" alt="pcsx2 Screenshot 2026 08 18 - 19 05 44 99" src="https://github.com/user-attachments/assets/3d2b9dfb-89d9-45d1-9c1b-405eb1afe813" />
+<img width="2560" height="1440" alt="pcsx2 Screenshot 2026 08 18 - 19 07 12 89" src="https://github.com/user-attachments/assets/4e7fa98e-afd6-4413-a558-30f76b7902d5" />
+
 
 ##  Conteúdo do repositório
 
