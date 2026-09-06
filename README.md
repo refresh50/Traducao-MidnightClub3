@@ -33,14 +33,14 @@ Instruções detalhadas passo a passo estão no arquivo [`LEIAME.txt`](./LEIAME.
 ## 🖼️ Capturas de tela
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/81ce7e3d-e84e-4e6f-a970-599d960e0e27" width="400">
-  <img src="https://github.com/user-attachments/assets/fd299d4c-dcb3-4f96-8d1f-8607dddb4163" width="400">
-  <img src="https://github.com/user-attachments/assets/09788f32-b18f-4679-ae42-a053b022bed8" width="400">
-  <img src="https://github.com/user-attachments/assets/9b64caa3-07ea-4902-98c0-d8f738de06c8" width="400">
-  <img src="https://github.com/user-attachments/assets/a9138e1c-328d-44ab-ad7c-7122cfd2e313" width="400">
-  <img src="https://github.com/user-attachments/assets/58de6773-b7e2-40f8-8bce-ce9815535728" width="400">
-  <img src="https://github.com/user-attachments/assets/3d2b9dfb-89d9-45d1-9c1b-405eb1afe813" width="400">
-  <img src="https://github.com/user-attachments/assets/4e7fa98e-afd6-4413-a558-30f76b7902d5" width="400">
+  <img src="https://github.com/user-attachments/assets/81ce7e3d-e84e-4e6f-a970-599d960e0e27" width="700"><br>
+  <img src="https://github.com/user-attachments/assets/fd299d4c-dcb3-4f96-8d1f-8607dddb4163" width="700"><br>
+  <img src="https://github.com/user-attachments/assets/09788f32-b18f-4679-ae42-a053b022bed8" width="700"><br>
+  <img src="https://github.com/user-attachments/assets/9b64caa3-07ea-4902-98c0-d8f738de06c8" width="700"><br>
+  <img src="https://github.com/user-attachments/assets/a9138e1c-328d-44ab-ad7c-7122cfd2e313" width="700"><br>
+  <img src="https://github.com/user-attachments/assets/58de6773-b7e2-40f8-8bce-ce9815535728" width="700"><br>
+  <img src="https://github.com/user-attachments/assets/3d2b9dfb-89d9-45d1-9c1b-405eb1afe813" width="700"><br>
+  <img src="https://github.com/user-attachments/assets/4e7fa98e-afd6-4413-a558-30f76b7902d5" width="700">
 </p>
 
 ## ⚠️ Aviso legal
