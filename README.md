@@ -10,17 +10,17 @@ Patch de tradução para Português Brasileiro do jogo **Midnight Club 3: DUB Ed
 
 ---
 
-## 📁 Conteúdo do repositório
+## Conteúdo do repositório
 
 - `Midnight Club 3 - DUB Edition Remix (Patch PTBR).xdelta` — o patch de tradução (formato xdelta)
 - `LEIAME.txt` — instruções completas de instalação (em português)
 
-## 📋 Requisitos
+## Requisitos
 
 - ISO **original e limpa** do jogo Midnight Club 3: DUB Edition Remix (PS2), versão **SLUS-213.55**. Sem outras modificações.
 - [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) — ferramenta gratuita para aplicar o patch.
 
-## ⚙️ Como instalar
+## Como instalar
 
 1. Baixe o [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases) para o seu sistema operacional.
 2. Baixe o arquivo `patch.xdelta` deste repositório (aba **Releases** ou direto na lista de arquivos).
@@ -30,7 +30,7 @@ Patch de tradução para Português Brasileiro do jogo **Midnight Club 3: DUB Ed
 
 Instruções detalhadas passo a passo estão no arquivo [`LEIAME.txt`](./LEIAME.txt).
 
-## 🖼️ Capturas de tela
+## Capturas de tela
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/81ce7e3d-e84e-4e6f-a970-599d960e0e27" width="700"><br>
@@ -43,15 +43,15 @@ Instruções detalhadas passo a passo estão no arquivo [`LEIAME.txt`](./LEIAME.
   <img src="https://github.com/user-attachments/assets/4e7fa98e-afd6-4413-a558-30f76b7902d5" width="700">
 </p>
 
-## ⚠️ Aviso legal
+## Aviso legal
 
 Este repositório **não** distribui nenhum arquivo do jogo original. O patch apenas modifica bytes de uma ISO que o usuário já possui legalmente. Nenhum conteúdo protegido por direitos autorais da Rockstar/Take-Two está incluído aqui.
 
-## 🙌 Créditos
+## Créditos
 
 - Tradução e romhack: **[refresh]**
 - Ferramenta de patch: [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) por marco-calautti
 
-## 💬 Dúvidas ou problemas?
+## Dúvidas ou problemas?
 
 Abra uma [Issue](../../issues) neste repositório contando o problema e a versão do seu jogo.
